@@ -46,6 +46,8 @@ It emphasizes:
 22. [Common Pitfalls and Edge Cases](#22-common-pitfalls-and-edge-cases)
 23. [Mini Practical Patterns](#23-mini-practical-patterns)
 24. [Final Quick Reference](#24-final-quick-reference)
+25. [Running Python and the REPL](#25-running-python-and-the-repl)
+26. [Virtual Environments and Packaging](#26-virtual-environments-and-packaging)
 
 ---
 
@@ -1896,6 +1898,289 @@ import threading
 thread = threading.Thread(target=worker)
 thread.start()
 thread.join()
+```
+
+---
+
+# 25. Running Python and the REPL
+
+## Running Python Scripts
+
+You can run a Python file from the command line:
+
+```bash
+python script.py
+```
+
+On some systems you may need:
+
+```bash
+python3 script.py
+```
+
+## Running a Module as a Script
+
+If a module contains a `main()` function and a `__name__ == "__main__"` guard, you can run it with:
+
+```bash
+python -m mymodule
+```
+
+This is useful when a package or module is meant to be executed directly.
+
+## The REPL
+
+REPL means **Read-Eval-Print Loop**. It is an interactive Python prompt where you type expressions and see results immediately.
+
+Start it with:
+
+```bash
+python
+```
+
+or:
+
+```bash
+python3
+```
+
+Example session:
+
+```python
+>>> 2 + 2
+4
+>>> name = "Alice"
+>>> name.upper()
+'ALICE'
+```
+
+## REPL Shortcuts and Tips
+
+- Use it to test small expressions quickly.
+- Great for learning built-ins and methods.
+- Works well for debugging small code snippets.
+
+A few handy examples:
+
+```python
+>>> import math
+>>> math.sqrt(16)
+4.0
+>>> help(str)
+```
+
+## Running One-Liners
+
+You can execute a short command without opening a file:
+
+```bash
+python -c "print('Hello from Python')"
+```
+
+## Exiting the REPL
+
+Exit with:
+
+```python
+exit()
+```
+
+or:
+
+- `Ctrl+D` on macOS/Linux
+- `Ctrl+Z` then `Enter` on Windows
+
+## Common `__main__` Pattern
+
+```python
+def main():
+    print("Program started")
+
+if __name__ == "__main__":
+    main()
+```
+
+This keeps code reusable when imported, but executable when run directly.
+
+---
+
+# 26. Virtual Environments and Packaging
+
+## Why Virtual Environments Matter
+
+A virtual environment isolates project dependencies so one project does not interfere with another.
+
+Use them to:
+
+- keep dependencies project-specific
+- avoid version conflicts
+- make setups reproducible
+
+## Creating a Virtual Environment
+
+Create one with the built-in `venv` module:
+
+```bash
+python -m venv .venv
+```
+
+## Activating the Environment
+
+### macOS / Linux
+
+```bash
+source .venv/bin/activate
+```
+
+### Windows PowerShell
+
+```powershell
+.venv\Scripts\Activate.ps1
+```
+
+### Windows Command Prompt
+
+```bat
+.venv\Scripts\activate.bat
+```
+
+When active, your shell usually shows the environment name.
+
+## Upgrading Packaging Tools
+
+Inside the virtual environment, upgrade basic tooling:
+
+```bash
+python -m pip install --upgrade pip setuptools wheel
+```
+
+## Installing Packages
+
+Install a package with:
+
+```bash
+pip install requests
+```
+
+Or install from a requirements file:
+
+```bash
+pip install -r requirements.txt
+```
+
+## Freezing Dependencies
+
+Capture installed packages to a file:
+
+```bash
+pip freeze > requirements.txt
+```
+
+This is often used to reproduce an environment later.
+
+## Uninstalling Packages
+
+```bash
+pip uninstall requests
+```
+
+## Checking Installed Packages
+
+```bash
+pip list
+```
+
+## Basic Packaging Concepts
+
+A Python project often includes:
+
+- source code
+- dependency metadata
+- package configuration
+- documentation
+
+Common packaging files include:
+
+- `pyproject.toml`
+- `README.md`
+- `requirements.txt`
+
+## `pyproject.toml`
+
+Modern Python packaging commonly uses `pyproject.toml` to describe build system and project metadata.
+
+Example structure:
+
+```toml
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "my-package"
+version = "0.1.0"
+description = "Example package"
+requires-python = ">=3.10"
+```
+
+## Source Layout Example
+
+A common package layout looks like this:
+
+```text
+my-project/
+├── pyproject.toml
+├── README.md
+├── src/
+│   └── my_package/
+│       ├── __init__.py
+│       └── core.py
+└── tests/
+```
+
+## `__init__.py`
+
+A file named `__init__.py` marks a directory as a Python package in many workflows.
+
+```python
+# my_package/__init__.py
+from .core import some_function
+```
+
+## Editable Installs for Local Development
+
+For development, you can install a package in editable mode:
+
+```bash
+pip install -e .
+```
+
+This lets your code changes be picked up without reinstalling every time.
+
+## Building Distributions
+
+Common distribution formats:
+
+- **source distribution**: `.tar.gz`
+- **wheel**: `.whl`
+
+If your project is configured for packaging, you can build artifacts with modern build tools such as `python -m build`.
+
+## Best Practices
+
+- Use a virtual environment for every project.
+- Commit `pyproject.toml` and/or `requirements.txt` as appropriate.
+- Do not commit `.venv/`.
+- Pin dependencies when reproducibility matters.
+- Separate runtime dependencies from development-only tools when possible.
+
+## Example Development Workflow
+
+```bash
+python -m venv .venv
+source .venv/bin/activate
+python -m pip install --upgrade pip
+pip install -r requirements.txt
 ```
 
 ---
