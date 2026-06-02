@@ -2,6 +2,9 @@
 
 Here's your complete 30-day PHP curriculum. Click any day pill to see exactly what you'll build and practice that day — then hit "Go deep on this day" to start a full lesson with hands-on exercises.
 
+![[Pasted image 20260602222713.png]]
+
+
 **How this is structured:**
 
 The four phases mirror how real PHP developers actually grow:
@@ -22,3 +25,6 @@ The four phases mirror how real PHP developers actually grow:
 - Come back here whenever you want to jump to a different day or track your progress
 
 Where would you like to start — Day 1 from the beginning, or do you have some PHP exposure already and want to jump in somewhere?
+
+[[professional instructor and practitioner]]
+
