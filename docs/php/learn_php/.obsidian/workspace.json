@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PHP_30_Days/Curriculum/Web and data/Untitled.md",
+                "file": "PHP_30_Days/Claude Prompts/Untitled.md",
                 "mode": "source",
                 "source": false
               },
@@ -172,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PHP_30_Days/Curriculum/Web and data/Untitled.md",
+                "file": "PHP_30_Days/Claude Prompts/Untitled.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -203,8 +203,18 @@
   },
   "active": "5b58471ba03b5c14",
   "lastOpenFiles": [
+    "PHP_30_Days/Curriculum/Web and data/Day 12 — CRUD application.md",
+    "PHP_30_Days/Claude Prompts/Untitled.md",
+    "Pasted image 20260602231008.png",
+    "PHP_30_Days/Claude Prompts/guided learning.md",
+    "PHP_30_Days/Claude Prompts/professional instructor and practitioner.md",
+    "PHP_30_Days/Curriculum/Web and data/Day 11 — MySQL + PDO.md",
+    "Pasted image 20260602230623.png",
+    "PHP_30_Days/Curriculum/Web and data/Day 9 — HTTP & the PHP request lifecycle.md",
+    "Pasted image 20260602230353.png",
+    "PHP_30_Days/Curriculum/Web and data/Day 10 — Form handling & validation.md",
+    "Pasted image 20260602230124.png",
     "PHP_30_Days/Curriculum/Foundations/Day 8 — Error handling.md",
-    "PHP_30_Days/Curriculum/Web and data/Untitled.md",
     "PHP_30_Days/Curriculum/Web and data",
     "Pasted image 20260602225706.png",
     "PHP_30_Days/Curriculum/Foundations/Day 6 — Strings & dates.md",
@@ -220,11 +230,7 @@
     "PHP_30_Days/Curriculum/Foundations/Day 2 — Variables, types & operators.md",
     "PHP_30_Days/Curriculum/Foundations/Day 3 — Control flow.md",
     "Pasted image 20260602224251.png",
-    "PHP_30_Days/Claude Prompts/professional instructor and practitioner.md",
-    "Pasted image 20260602223244.png",
     "PHP_30_Days/Curriculum/Roadmap.md",
-    "Pasted image 20260602222713.png",
-    "Pasted image 20260602222645.png",
     "PHP_30_Days/Curriculum",
     "Welcome to PHP.md",
     "PHP_30_Days/Claude Prompts",

@@ -1,8 +1,4 @@
 
----
-
-# 
-
 Forms are the primary way users push data into your application. Every piece of data that arrives via a form is a string, comes from an untrusted source, and must be validated and sanitized before you do anything with it. This is not optional defensive programming — it is the baseline.
 
 ## The mental model — never trust input
@@ -370,8 +366,11 @@ Without the redirect, refreshing the page after a successful submit re-sends the
 
 ---
 
-## Today's exercisePart A is the full stack of today's lesson in one exercise — form, validation, sanitization, XSS prevention, file persistence, and Post/Redirect/Get all working together. The `Validator` class you build here is something you'll extend through Phase 2 and eventually replace with Laravel's validator in Phase 4. Understanding yours first means theirs makes complete sense.
+## Today's exercise
+
+![[Pasted image 20260602230124.png]]
+Part A is the full stack of today's lesson in one exercise — form, validation, sanitization, XSS prevention, file persistence, and Post/Redirect/Get all working together. The `Validator` class you build here is something you'll extend through Phase 2 and eventually replace with Laravel's validator in Phase 4. Understanding yours first means theirs makes complete sense.
+
 
 Serve it with `php -S localhost:8000`, open it in your browser, and deliberately try to break it — submit empty fields, submit `<script>` tags, submit a port of 99999. A form that handles abuse gracefully is a form that's ready for real users.
 
-Paste your code when done and we'll move to Day 11 — MySQL and PDO.
