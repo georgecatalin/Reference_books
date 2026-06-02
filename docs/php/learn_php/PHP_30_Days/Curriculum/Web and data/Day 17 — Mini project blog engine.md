@@ -787,6 +787,7 @@ declare(strict_types=1);
 ## Today's exercise
 
 ![[Pasted image 20260602233541.png]]
+
 Build it in the four steps above — foundation first, then public pages, then admin. That order matters: building reads before writes means you can verify the data model is right before you build the forms that produce data.
 
 The acceptance checklist is your definition of done for Phase 2. Don't move to Phase 3 until every item passes. Some of them will catch things you've missed — ownership checking on delete is the one most people initially forget, and it's exactly the kind of bug that causes real security incidents.
