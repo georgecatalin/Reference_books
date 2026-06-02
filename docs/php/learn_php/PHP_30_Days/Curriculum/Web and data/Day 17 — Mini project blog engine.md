@@ -786,6 +786,8 @@ declare(strict_types=1);
 
 ## Today's exercise
 
+
+
 ![[Pasted image 20260602233541.png]]
 
 Build it in the four steps above — foundation first, then public pages, then admin. That order matters: building reads before writes means you can verify the data model is right before you build the forms that produce data.
