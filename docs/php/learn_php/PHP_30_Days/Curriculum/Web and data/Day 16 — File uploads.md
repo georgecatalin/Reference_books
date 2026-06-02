@@ -1,4 +1,3 @@
-# Day 16 — File uploads
 
 File uploads are where security mistakes are most costly. A misconfigured upload handler can give an attacker arbitrary code execution on your server. Today you build it correctly from first principles — validate server-side, generate safe filenames, store outside the web root, serve through a controller.
 
@@ -409,7 +408,10 @@ file_uploads        = On      ; enable uploads at all
 
 ---
 
-## Today's exercisePart B is the one that makes today's lesson permanent — attacking your own code and watching the defenses hold is a completely different experience from just writing the defenses. Every attack attempt that fails correctly builds the right instinct for what secure code feels like.
+## Today's exercise
+
+![[Pasted image 20260602233202.png]]
+Part B is the one that makes today's lesson permanent — attacking your own code and watching the defenses hold is a completely different experience from just writing the defenses. Every attack attempt that fails correctly builds the right instinct for what secure code feels like.
 
 The delete order in the stretch goal hint matters: fetch → verify ownership → unlink files → delete DB row. If you delete the DB row first and then `unlink` fails, you have files on disk with no record — invisible orphans that accumulate. If you `unlink` first and the DB delete fails, you can re-upload. The filesystem state is always recoverable; the DB state is what controls access.
 

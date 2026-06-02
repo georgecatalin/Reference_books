@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PHP_30_Days/Curriculum/Web and data/Untitled.md",
+                "file": "PHP_30_Days/Curriculum/Web and data/Day 17 — Mini project blog engine.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Day 17 — Mini project blog engine"
             }
           }
         ]
@@ -172,13 +172,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PHP_30_Days/Curriculum/Web and data/Untitled.md",
+                "file": "PHP_30_Days/Curriculum/Web and data/Day 17 — Mini project blog engine.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled"
+              "title": "Outline of Day 17 — Mini project blog engine"
             }
           }
         ],
@@ -203,8 +203,11 @@
   },
   "active": "5b58471ba03b5c14",
   "lastOpenFiles": [
+    "Pasted image 20260602233541.png",
+    "PHP_30_Days/Curriculum/Web and data/Day 17 — Mini project blog engine.md",
+    "PHP_30_Days/Curriculum/Web and data/Day 16 — File uploads.md",
+    "Pasted image 20260602233202.png",
     "PHP_30_Days/Curriculum/Web and data/Day 15 — Security fundamentals.md",
-    "PHP_30_Days/Curriculum/Web and data/Untitled.md",
     "PHP_30_Days/Curriculum/Roadmap.md",
     "PHP_30_Days/Curriculum/Web and data/Day 14 — Authentication.md",
     "Pasted image 20260602232432.png",
@@ -232,7 +235,6 @@
     "Pasted image 20260602225129.png",
     "PHP_30_Days/Curriculum/Foundations/Day 5 — Arrays in depth.md",
     "PHP_30_Days/Curriculum/Foundations",
-    "Pasted image 20260602224903.png",
     "PHP_30_Days/Curriculum/Foundations/Day 4 — Functions.md",
     "PHP_30_Days/Curriculum/Foundations/Day 1 - PHP environment + your first script.md",
     "PHP_30_Days/Curriculum/Foundations/Day 2 — Variables, types & operators.md",
