@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PHP_30_Days/Curriculum/Foundations/Untitled.md",
+                "file": "PHP_30_Days/Curriculum/Foundations/Day 8 — Error handling.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Day 8 — Error handling"
             }
           }
         ]
@@ -172,13 +172,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PHP_30_Days/Curriculum/Foundations/Untitled.md",
+                "file": "PHP_30_Days/Curriculum/Foundations/Day 8 — Error handling.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled"
+              "title": "Outline of Day 8 — Error handling"
             }
           }
         ],
@@ -203,8 +203,13 @@
   },
   "active": "5b58471ba03b5c14",
   "lastOpenFiles": [
+    "Pasted image 20260602225706.png",
+    "PHP_30_Days/Curriculum/Foundations/Day 6 — Strings & dates.md",
+    "PHP_30_Days/Curriculum/Foundations/Day 8 — Error handling.md",
+    "Pasted image 20260602225422.png",
+    "PHP_30_Days/Curriculum/Foundations/Day 7 — File IO.md",
+    "Pasted image 20260602225129.png",
     "PHP_30_Days/Curriculum/Foundations/Day 5 — Arrays in depth.md",
-    "PHP_30_Days/Curriculum/Foundations/Untitled.md",
     "PHP_30_Days/Curriculum/Foundations",
     "Pasted image 20260602224903.png",
     "PHP_30_Days/Curriculum/Foundations/Day 4 — Functions.md",
