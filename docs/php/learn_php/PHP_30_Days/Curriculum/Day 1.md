@@ -1,7 +1,7 @@
 
 #PHP 
 
-# PGenvironment + your first script
+# PHP environment + your first script
 
 Let's build the right mental model first, then get your hands on code immediately.
 
@@ -160,8 +160,10 @@ That's it. No forms, no database, no framework. Just PHP generating HTML from va
 When you've got it running, paste your `profile.php` code here and I'll review it and point out anything worth fixing before we move to Day 2 (variables, types, and the type-juggling traps that catch everyone).
 
 
-**Teach me Day 1: PHP environment + your first script. Start with the key concept, then give me a real hands-on exercise I can do right now.**
+**Teach me Day 1 : PHP environment + your first script. Start with the key concept, then give me a real hands-on exercise I can do right now.**
 
 I already just taught you Day 1 in full above — scroll up and you'll find everything: the mental model, the install command, all three scripts, the request cycle diagram, and your deliverable exercise (`profile.php`).
 
 Jump straight to the deliverable — create `profile.php`, serve it with `php -S localhost:8000`, and paste your code here when it's running. That's where the real learning happens.
+
+[[Roadmap]]

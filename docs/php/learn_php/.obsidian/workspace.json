@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PHP_30_Days/Curriculum/Day 1.md",
+                "file": "PHP_30_Days/Curriculum/Day 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Day 1"
+              "title": "Day 2"
             }
           }
         ]
@@ -172,13 +172,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PHP_30_Days/Curriculum/Day 1.md",
+                "file": "PHP_30_Days/Curriculum/Day 2.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Day 1"
+              "title": "Outline of Day 2"
             }
           }
         ],
@@ -203,12 +203,13 @@
   },
   "active": "5b58471ba03b5c14",
   "lastOpenFiles": [
+    "PHP_30_Days/Claude Prompts/professional instructor and practitioner.md",
     "PHP_30_Days/Curriculum/Day 2.md",
     "PHP_30_Days/Curriculum/Day 1.md",
+    "Pasted image 20260602223244.png",
     "PHP_30_Days/Curriculum/Roadmap.md",
     "Pasted image 20260602222713.png",
     "Pasted image 20260602222645.png",
-    "PHP_30_Days/Claude Prompts/professional instructor and practitioner.md",
     "PHP_30_Days/Curriculum",
     "Welcome to PHP.md",
     "PHP_30_Days/Claude Prompts",
