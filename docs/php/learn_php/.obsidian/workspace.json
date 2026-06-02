@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PHP_30_Days/Claude Prompts/image generation.md",
+                "file": "PHP_30_Days/Curriculum/Web and data/Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "image generation"
+              "title": "Untitled"
             }
           }
         ]
@@ -172,13 +172,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PHP_30_Days/Claude Prompts/image generation.md",
+                "file": "PHP_30_Days/Curriculum/Web and data/Untitled.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of image generation"
+              "title": "Outline of Untitled"
             }
           }
         ],
@@ -201,15 +201,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "50fae6f044a22131",
+  "active": "5b58471ba03b5c14",
   "lastOpenFiles": [
-    "PHP_30_Days/Claude Prompts/course authoring.md",
+    "PHP_30_Days/Curriculum/Web and data/Day 15 — Security fundamentals.md",
+    "PHP_30_Days/Curriculum/Web and data/Untitled.md",
+    "PHP_30_Days/Curriculum/Roadmap.md",
+    "PHP_30_Days/Curriculum/Web and data/Day 14 — Authentication.md",
+    "Pasted image 20260602232432.png",
+    "PHP_30_Days/Curriculum/Web and data/Day 13 — Sessions & cookies.md",
+    "Pasted image 20260602232145.png",
+    "PHP_30_Days/Claude Prompts/professional instructor and practitioner.md",
     "PHP_30_Days/Claude Prompts/image generation.md",
+    "PHP_30_Days/Claude Prompts/course authoring.md",
     "PHP_30_Days/Claude Prompts/debugging C source code.md",
     "PHP_30_Days/Curriculum/Web and data/Day 12 — CRUD application.md",
     "Pasted image 20260602231008.png",
     "PHP_30_Days/Claude Prompts/guided learning.md",
-    "PHP_30_Days/Claude Prompts/professional instructor and practitioner.md",
     "PHP_30_Days/Curriculum/Web and data/Day 11 — MySQL + PDO.md",
     "Pasted image 20260602230623.png",
     "PHP_30_Days/Curriculum/Web and data/Day 9 — HTTP & the PHP request lifecycle.md",
@@ -227,12 +234,9 @@
     "PHP_30_Days/Curriculum/Foundations",
     "Pasted image 20260602224903.png",
     "PHP_30_Days/Curriculum/Foundations/Day 4 — Functions.md",
-    "Pasted image 20260602224629.png",
     "PHP_30_Days/Curriculum/Foundations/Day 1 - PHP environment + your first script.md",
     "PHP_30_Days/Curriculum/Foundations/Day 2 — Variables, types & operators.md",
     "PHP_30_Days/Curriculum/Foundations/Day 3 — Control flow.md",
-    "Pasted image 20260602224251.png",
-    "PHP_30_Days/Curriculum/Roadmap.md",
     "PHP_30_Days/Curriculum",
     "Welcome to PHP.md",
     "PHP_30_Days/Claude Prompts",
