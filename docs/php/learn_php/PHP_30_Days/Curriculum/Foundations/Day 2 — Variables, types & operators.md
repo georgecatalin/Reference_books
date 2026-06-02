@@ -1,5 +1,4 @@
 
-# Day 2 — Variables, types & operators
 
 You've seen variables in action. Today you build a precise mental model of how PHP actually thinks about types — because PHP's loose typing is both its most convenient feature and its most common source of bugs.
 
@@ -219,4 +218,4 @@ The stretch goal is especially worth doing given your embedded background — th
 
 Paste your `sensor.php` when you're done and we'll review before moving to Day 3.
 
-[[Day 1]]
+[[Day 1 - PHP environment + your first script]]

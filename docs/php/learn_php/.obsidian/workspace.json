@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PHP_30_Days/Curriculum/Day 2.md",
+                "file": "PHP_30_Days/Curriculum/Foundations/Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Day 2"
+              "title": "Untitled"
             }
           }
         ]
@@ -172,13 +172,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PHP_30_Days/Curriculum/Day 2.md",
+                "file": "PHP_30_Days/Curriculum/Foundations/Untitled.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Day 2"
+              "title": "Outline of Untitled"
             }
           }
         ],
@@ -203,9 +203,17 @@
   },
   "active": "5b58471ba03b5c14",
   "lastOpenFiles": [
+    "PHP_30_Days/Curriculum/Foundations/Day 5 — Arrays in depth.md",
+    "PHP_30_Days/Curriculum/Foundations/Untitled.md",
+    "PHP_30_Days/Curriculum/Foundations",
+    "Pasted image 20260602224903.png",
+    "PHP_30_Days/Curriculum/Foundations/Day 4 — Functions.md",
+    "Pasted image 20260602224629.png",
+    "PHP_30_Days/Curriculum/Foundations/Day 1 - PHP environment + your first script.md",
+    "PHP_30_Days/Curriculum/Foundations/Day 2 — Variables, types & operators.md",
+    "PHP_30_Days/Curriculum/Foundations/Day 3 — Control flow.md",
+    "Pasted image 20260602224251.png",
     "PHP_30_Days/Claude Prompts/professional instructor and practitioner.md",
-    "PHP_30_Days/Curriculum/Day 2.md",
-    "PHP_30_Days/Curriculum/Day 1.md",
     "Pasted image 20260602223244.png",
     "PHP_30_Days/Curriculum/Roadmap.md",
     "Pasted image 20260602222713.png",

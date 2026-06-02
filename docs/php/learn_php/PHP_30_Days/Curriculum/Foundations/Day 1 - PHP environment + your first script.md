@@ -1,7 +1,4 @@
 
-#PHP 
-
-# PHP environment + your first script
 
 Let's build the right mental model first, then get your hands on code immediately.
 
