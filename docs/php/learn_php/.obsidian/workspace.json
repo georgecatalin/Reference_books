@@ -11,14 +11,14 @@
             "id": "9eb33b78fd8183a3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "PHP_30_Days/Curriculum/Foundations/Day 3 — Control flow.md",
-                "mode": "source",
-                "source": false
+                "aFile": "docs/php/learn_php/PHP_30_Days/Curriculum/Web and data/Day 10 — Form handling & validation.md",
+                "bFile": "docs/php/learn_php/PHP_30_Days/Curriculum/Web and data/Day 10 — Form handling & validation.md",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Day 3 — Control flow"
+              "icon": "diff",
+              "title": "Diff: Day 10 — Form handling & validation  (Working Tree)"
             }
           }
         ]
@@ -203,11 +203,15 @@
   },
   "active": "9eb33b78fd8183a3",
   "lastOpenFiles": [
+    "PHP_30_Days/Curriculum/Web and data/Day 11 — MySQL + PDO.md",
+    "PHP_30_Days/Curriculum/Web and data/Day 10 — Form handling & validation.md",
+    "PHP_30_Days/Curriculum/Production/Day 26 — Performance & caching.md",
+    "PHP_30_Days/Curriculum/Foundations/Day 7 — File IO.md",
     "PHP_30_Days/Curriculum/Foundations/Day 4 — Functions.md",
+    "PHP_30_Days/Curriculum/Web and data/Day 9 — HTTP & the PHP request lifecycle.md",
+    "PHP_30_Days/Curriculum/Foundations/Day 3 — Control flow.md",
     "PHP_30_Days/Curriculum/Foundations/Day 6 — Strings & dates.md",
     "PHP_30_Days/Curriculum/Foundations/Day 5 — Arrays in depth.md",
-    "PHP_30_Days/Curriculum/Foundations/Day 3 — Control flow.md",
-    "PHP_30_Days/Curriculum/Foundations/Day 7 — File IO.md",
     "PHP_30_Days/Curriculum/Foundations/Day 2 — Variables, types & operators.md",
     "PHP_30_Days/Curriculum/Foundations/Day 1 - PHP environment + your first script.md",
     "Foundations.md",
@@ -225,7 +229,6 @@
     "PHP_30_Days/Curriculum/Production",
     "PHP_30_Days/Curriculum/Production/Day 27 — Queues & background jobs.md",
     "Pasted image 20260603102001.png",
-    "PHP_30_Days/Curriculum/Production/Day 26 — Performance & caching.md",
     "Pasted image 20260603101652.png",
     "PHP_30_Days/Curriculum/Architecture/Day 25 — Testing with PHPUnit.md",
     "Pasted image 20260603101415.png",
@@ -237,9 +240,6 @@
     "Pasted image 20260603100514.png",
     "PHP_30_Days/Curriculum/Architecture/Day 21 — Composer & autoloading.md",
     "Pasted image 20260603100227.png",
-    "PHP_30_Days/Curriculum/Architecture/Day 20 — Traits & static methods.md",
-    "PHP_30_Days/Curriculum/Architecture/Day 19 — Inheritance & interfaces.md",
-    "PHP_30_Days/Claude Prompts/course authoring.md",
     "PHP_30_Days/Curriculum/Architecture",
     "Untitled.base",
     "PHP_30_Days/Curriculum/Web and data",
