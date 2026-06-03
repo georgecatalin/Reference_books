@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PHP_30_Days/Curriculum/Web and data/Day 16 — File uploads.md",
+                "file": "PHP_30_Days/IDEs for PHP/Troubleshooting.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Day 16 — File uploads"
+              "title": "Troubleshooting"
             }
           }
         ]
@@ -203,6 +203,11 @@
   },
   "active": "9eb33b78fd8183a3",
   "lastOpenFiles": [
+    "PHP_30_Days/IDEs for PHP/IDEs for PHP.md",
+    "PHP_30_Days/IDEs for PHP/Troubleshooting.md",
+    "PHP_30_Days/IDEs for PHP",
+    "Untitled",
+    "PHP_30_Days/Curriculum/Web and data/Day 16 — File uploads.md",
     "PHP_30_Days/Curriculum/Foundations/Day 8 — Error handling.md",
     "PHP_30_Days/Curriculum/Foundations/Day 6 — Strings & dates.md",
     "PHP_30_Days/Curriculum/Foundations/Day 5 — Arrays in depth.md",
@@ -217,7 +222,6 @@
     "PHP_30_Days/Curriculum/Foundations/Day 2 — Variables, types & operators.md",
     "PHP_30_Days/Curriculum/Foundations/Day 1 - PHP environment + your first script.md",
     "Foundations.md",
-    "PHP_30_Days/IDEs for PHP.md",
     "PHP_30_Days/Curriculum/Production/Day 28 — Deployment & environments.md",
     "Youtube.md",
     "PHP_30_Days/Curriculum/Roadmap.md",
@@ -234,10 +238,8 @@
     "Pasted image 20260603101652.png",
     "PHP_30_Days/Curriculum/Architecture/Day 25 — Testing with PHPUnit.md",
     "Pasted image 20260603101415.png",
-    "PHP_30_Days/Curriculum/Architecture/Day 24 — Consuming external APIs.md",
     "Pasted image 20260603101108.png",
     "Pasted image 20260603100809.png",
-    "PHP_30_Days/Curriculum/Architecture/Day 22 — MVC pattern.md",
     "Pasted image 20260603100514.png",
     "Pasted image 20260603100227.png",
     "PHP_30_Days/Curriculum/Architecture",
