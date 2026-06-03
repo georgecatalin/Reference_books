@@ -1,5 +1,9 @@
 #summary
 
+[https://www.youtube.com/watch?v=t0syDUSbdfE&t=3s]()
+
+
+
 Here's your complete 30-day PHP curriculum. Click any day pill to see exactly what you'll build and practice that day — then hit "Go deep on this day" to start a full lesson with hands-on exercises.
 
 ![[Pasted image 20260602222713.png]]
