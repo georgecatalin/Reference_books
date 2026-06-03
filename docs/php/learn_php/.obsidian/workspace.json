@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PHP_30_Days/Curriculum/Architecture/Untitled.md",
+                "file": "PHP_30_Days/Curriculum/Architecture/Day 27 — Queues & background jobs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Day 27 — Queues & background jobs"
             }
           }
         ]
@@ -203,8 +203,15 @@
   },
   "active": "5b58471ba03b5c14",
   "lastOpenFiles": [
+    "Pasted image 20260603102001.png",
+    "PHP_30_Days/Curriculum/Architecture/Day 26 — Performance & caching.md",
+    "PHP_30_Days/Curriculum/Architecture/Day 27 — Queues & background jobs.md",
+    "Pasted image 20260603101652.png",
+    "PHP_30_Days/Curriculum/Architecture/Day 25 — Testing with PHPUnit.md",
+    "Pasted image 20260603101415.png",
+    "PHP_30_Days/Curriculum/Architecture/Day 24 — Consuming external APIs.md",
+    "Pasted image 20260603101108.png",
     "PHP_30_Days/Curriculum/Architecture/Day 23 — RESTful API with PHP.md",
-    "PHP_30_Days/Curriculum/Architecture/Untitled.md",
     "Pasted image 20260603100809.png",
     "PHP_30_Days/Curriculum/Architecture/Day 22 — MVC pattern.md",
     "Pasted image 20260603100514.png",
@@ -219,13 +226,10 @@
     "PHP_30_Days/Claude Prompts/course authoring.md",
     "PHP_30_Days/Curriculum/Architecture/Day 18 — OOP fundamentals.md",
     "Pasted image 20260603095338.png",
-    "Pasted image 20260603095327.png",
-    "Pasted image 20260603095315.png",
     "PHP_30_Days/Curriculum/Web and data/Day 14 — Authentication.md",
     "PHP_30_Days/Curriculum/Web and data/Day 17 — Mini project blog engine.md",
     "PHP_30_Days/Curriculum/Architecture",
     "Untitled.base",
-    "Pasted image 20260602233541.png",
     "PHP_30_Days/Curriculum/Web and data/Day 16 — File uploads.md",
     "PHP_30_Days/Curriculum/Web and data/Day 15 — Security fundamentals.md",
     "PHP_30_Days/Curriculum/Roadmap.md",
@@ -237,11 +241,7 @@
     "PHP_30_Days/Curriculum/Web and data/Day 11 — MySQL + PDO.md",
     "PHP_30_Days/Curriculum/Web and data/Day 9 — HTTP & the PHP request lifecycle.md",
     "PHP_30_Days/Curriculum/Web and data/Day 10 — Form handling & validation.md",
-    "PHP_30_Days/Curriculum/Foundations/Day 8 — Error handling.md",
     "PHP_30_Days/Curriculum/Web and data",
-    "PHP_30_Days/Curriculum/Foundations/Day 6 — Strings & dates.md",
-    "PHP_30_Days/Curriculum/Foundations/Day 7 — File IO.md",
-    "PHP_30_Days/Curriculum/Foundations/Day 5 — Arrays in depth.md",
     "PHP_30_Days/Curriculum/Foundations",
     "PHP_30_Days/Curriculum",
     "PHP_30_Days/Claude Prompts",
