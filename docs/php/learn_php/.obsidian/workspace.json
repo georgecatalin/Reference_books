@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PHP_30_Days/Curriculum/Foundations/Day 2 — Variables, types & operators.md",
+                "file": "PHP_30_Days/Curriculum/Foundations/Day 3 — Control flow.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Day 2 — Variables, types & operators"
+              "title": "Day 3 — Control flow"
             }
           }
         ]
@@ -203,8 +203,8 @@
   },
   "active": "9eb33b78fd8183a3",
   "lastOpenFiles": [
-    "PHP_30_Days/Curriculum/Foundations/Day 1 - PHP environment + your first script.md",
     "PHP_30_Days/Curriculum/Foundations/Day 2 — Variables, types & operators.md",
+    "PHP_30_Days/Curriculum/Foundations/Day 1 - PHP environment + your first script.md",
     "Foundations.md",
     "PHP_30_Days/IDEs for PHP.md",
     "PHP_30_Days/Curriculum/Production/Day 28 — Deployment & environments.md",
