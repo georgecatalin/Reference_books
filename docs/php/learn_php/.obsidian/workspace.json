@@ -11,14 +11,14 @@
             "id": "9eb33b78fd8183a3",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "docs/php/learn_php/PHP_30_Days/Curriculum/Web and data/Day 10 — Form handling & validation.md",
-                "bFile": "docs/php/learn_php/PHP_30_Days/Curriculum/Web and data/Day 10 — Form handling & validation.md",
-                "aRef": ""
+                "file": "PHP_30_Days/Curriculum/Architecture/Day 23 — RESTful API with PHP.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: Day 10 — Form handling & validation  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "Day 23 — RESTful API with PHP"
             }
           }
         ]
