@@ -537,6 +537,7 @@ var_dump($post->isDeleted());   // true
 ## Today's exercise
 
 ![[Pasted image 20260603095943.png]]
+Part B's `Temperature` value object is worth studying after you build it. Notice that once you have the private constructor and static factories, it's impossible to create an invalid temperature — `Temperature::kelvin(-1)` throws immediately, and every conversion is handled by the object itself. This is the kind of code that never has defensive checks scattered throughout the codebase because the object guarantees its own validity. You'll write many value objects like this in production PHP.
 
 The stretch goal's `FleetMonitor` is the observer pattern — used in React's state system, Laravel's event dispatcher, Node's EventEmitter, and the MQTT subscription model you already know from your embedded work. You've been working with observers in C via libmosquitto callbacks since the beginning of your daemon project; this is the same concept in OOP form.
 
