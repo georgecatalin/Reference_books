@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PHP_30_Days/IDEs for PHP.md",
+                "file": "PHP_30_Days/Curriculum/Foundations/Day 1 - PHP environment + your first script.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "IDEs for PHP"
+              "title": "Day 1 - PHP environment + your first script"
             }
           }
         ]
@@ -203,6 +203,7 @@
   },
   "active": "9eb33b78fd8183a3",
   "lastOpenFiles": [
+    "Foundations.md",
     "PHP_30_Days/Curriculum/Foundations/Day 1 - PHP environment + your first script.md",
     "PHP_30_Days/IDEs for PHP.md",
     "PHP_30_Days/Curriculum/Production/Day 28 — Deployment & environments.md",
@@ -241,7 +242,6 @@
     "Untitled.base",
     "PHP_30_Days/Curriculum/Web and data/Day 16 — File uploads.md",
     "PHP_30_Days/Curriculum/Web and data/Day 15 — Security fundamentals.md",
-    "PHP_30_Days/Curriculum/Web and data/Day 13 — Sessions & cookies.md",
     "PHP_30_Days/Curriculum/Web and data",
     "PHP_30_Days/Curriculum/Foundations",
     "PHP_30_Days/Curriculum",

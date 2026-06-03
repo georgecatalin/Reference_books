@@ -163,4 +163,4 @@ I already just taught you Day 1 in full above — scroll up and you'll find ever
 
 Jump straight to the deliverable — create `profile.php`, serve it with `php -S localhost:8000`, and paste your code here when it's running. That's where the real learning happens.
 
-[[Roadmap]]
+ [[Foundations]]
