@@ -214,3 +214,4 @@ Run this and verify:
 
 Then extend it yourself: add a `min_max(device_id: str) -> Optional[tuple[float, float]]` method that returns the `(min, max)` of all values in the buffer. One line using built-ins — no loop needed.
 
+[[Foundation]]

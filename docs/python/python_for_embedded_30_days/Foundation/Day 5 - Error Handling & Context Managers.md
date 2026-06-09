@@ -261,3 +261,4 @@ if __name__ == "__main__":
     if samples:
         print(f"Average: {sum(samples)/len(samples):.2f}")
 ```
+[[Foundation]]

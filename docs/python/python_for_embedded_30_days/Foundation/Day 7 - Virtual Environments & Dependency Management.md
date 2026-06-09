@@ -160,3 +160,5 @@ By the end of Week 1 you have: a correctly structured Python package, with type-
 ---
 
 **Week 1 complete.** Days 8–14 move into OOP and design patterns — where you'll take the raw structures from this week and learn to design them at a professional level.
+
+[[Foundation]]

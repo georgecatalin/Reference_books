@@ -1,4 +1,4 @@
-# Day 1 — Python Memory Model
+
 
 Before any code: the single most important mental shift from C to Python.
 
@@ -153,3 +153,4 @@ if __name__ == "__main__":
     demo_identity()
 ```
 
+[[Foundation]]

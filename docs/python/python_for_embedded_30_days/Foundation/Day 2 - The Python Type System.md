@@ -295,3 +295,4 @@ Three things to do with this file:
 2. Run `mypy mqtt_types.py` — find and fix the deliberate error on the last call to `bad_publish`
 3. Add one more function yourself: `filter_readings(readings: list[SensorReading], variable: str) -> list[SensorReading]` — returns only readings matching the given variable name. Annotate it fully and verify mypy is happy with it.
 
+[[Foundation]]
