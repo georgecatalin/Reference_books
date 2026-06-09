@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Foundation/Day 3 - Lists & Tuples — Working with Sequences.md",
+                "file": "Foundation/Day 4 - Dictionaries & Sets — The Real Workhorses.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Day 3 - Lists & Tuples — Working with Sequences"
+              "title": "Day 4 - Dictionaries & Sets — The Real Workhorses"
             }
           }
         ],
@@ -211,12 +211,12 @@
   },
   "active": "512f1f66fb3d46c0",
   "lastOpenFiles": [
+    "Foundation/Day 3 - Lists & Tuples — Working with Sequences.md",
     "Foundation/Day 2 - Data Types — How Python Thinks About Data.md",
     "Foundation/Day 1 - Setup & Your First Real Script.md",
     "Annexes/Stack versus Heap memory in Python.md",
     "Foundation/Day 4 - Dictionaries & Sets — The Real Workhorses.md",
     "Annexes",
-    "Foundation/Day 3 - Lists & Tuples — Working with Sequences.md",
     "Foundation/Untitled.md",
     "Introduction.md",
     "Foundation",
