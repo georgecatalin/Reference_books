@@ -1,0 +1,228 @@
+{
+  "main": {
+    "id": "0577e9c58bebd05c",
+    "type": "split",
+    "children": [
+      {
+        "id": "1ad534110c4e5a70",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ac90be7beac69e83",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Introduction.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Introduction"
+            }
+          },
+          {
+            "id": "040bc42e2449317a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Foundation/Day 7 = Virtual Environments & Dependency Management.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Day 7 = Virtual Environments & Dependency Management"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "71bab71e6079f1da",
+    "type": "split",
+    "children": [
+      {
+        "id": "1d3582c887da5a2d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "69877cf0e1adfee5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "9ab0bbfcb5e5039e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "b399aa5f62421abb",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e22d7a98f2cf3a30",
+    "type": "split",
+    "children": [
+      {
+        "id": "59d5786ae4d7eb50",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7479755b50d412a3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Foundation/Day 1 - Python Memory Model.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Day 1 - Python Memory Model"
+            }
+          },
+          {
+            "id": "f11d5610fc49e2dd",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Foundation/Day 1 - Python Memory Model.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Day 1 - Python Memory Model"
+            }
+          },
+          {
+            "id": "786b2b7a03aebe40",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "a424cd71ca103c30",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "c26f5d66594cd0e6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Foundation/Day 1 - Python Memory Model.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Day 1 - Python Memory Model"
+            }
+          },
+          {
+            "id": "6c08d76cc790ca66",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "040bc42e2449317a",
+  "lastOpenFiles": [
+    "Foundation/Day 6 - Modules & Packages.md",
+    "Foundation/Day 1 - Python Memory Model.md",
+    "Untitled 2.base",
+    "Untitled 1.base",
+    "Untitled.base",
+    "Foundation/Day 7 = Virtual Environments & Dependency Management.md",
+    "Foundation/Day 5 - Error Handling & Context Managers.md",
+    "Foundation/Day 4 - Comprehensions & Generators.md",
+    "Foundation/Day 3 - Data Structures Real Costs, Right Choices.md",
+    "Foundation/Day 2 - The Python Type System.md",
+    "Introduction.md",
+    "Foundation",
+    "Pasted image 20260609135609.png"
+  ]
+}
