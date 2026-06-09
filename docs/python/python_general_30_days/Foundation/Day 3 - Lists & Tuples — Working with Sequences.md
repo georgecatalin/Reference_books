@@ -144,6 +144,50 @@ print(original)    # [[1, 2, 99], [3, 4]] — untouched
 
 Shallow copy creates a new list but the elements inside are still references. For lists of simple values (strings, numbers) shallow copy is fine. For nested structures, use `deepcopy`.
 
+### Explanation
+#### 1. The Shallow Copy Dilemma
+
+When you create `original = [[1, 2], [3, 4]]`, you are creating three distinct lists on the heap: the outer list, and two inner lists.
+
+When you run `shallow = original.copy()`, Python creates a **new outer list** for `shallow`. However, instead of duplicating the inner lists, it just copies the _memory addresses_ (references) of the original inner lists.
+
+Because both `original[0]` and `shallow[0]` point to the exact same list object on the heap, doing this:
+
+Python
+
+```
+shallow[0].append(99)
+```
+
+modifies that single, shared inner list. That's why the change reflects in both `original` and `shallow`.
+
+#### 2. The Deep Copy Solution
+
+When you use `copy.deepcopy(original)`, Python goes full "inception." It doesn't just copy the outer list; it recursively walks through the entire structure and creates brand-new copies of **every single object** it finds inside.
+
+After `deep = copy.deepcopy(original)`:
+
+- `original` and `deep` have different outer lists.
+    
+- `original[0]` and `deep[0]` now point to two completely separate inner lists on the heap.
+    
+
+So when you run:
+
+Python
+
+```
+deep[0].append(99)
+```
+
+You are only mutating `deep`'s independent inner list. The `original` list remains completely untouched.
+
+##### A Quick Rule of Thumb
+
+- **Use `.copy()` (Shallow):** For flat lists, dictionaries, or sets containing only immutable types (like integers, strings, or tuples). It's fast and memory-efficient.
+    
+- **Use `copy.deepcopy()`:** Anytime you have "lists inside lists," "dictionaries inside lists," or complex objects containing other objects, and you want to ensure total isolation.
+
 ---
 
 ### Iterating over lists
