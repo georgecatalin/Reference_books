@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Foundation/Day 4 - Dictionaries & Sets — The Real Workhorses.md",
+                "file": "Introduction.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Day 4 - Dictionaries & Sets — The Real Workhorses"
+              "title": "Introduction"
             }
           }
         ],
@@ -211,11 +211,11 @@
   },
   "active": "512f1f66fb3d46c0",
   "lastOpenFiles": [
+    "Foundation/Day 4 - Dictionaries & Sets — The Real Workhorses.md",
     "Foundation/Day 3 - Lists & Tuples — Working with Sequences.md",
     "Foundation/Day 2 - Data Types — How Python Thinks About Data.md",
     "Foundation/Day 1 - Setup & Your First Real Script.md",
     "Annexes/Stack versus Heap memory in Python.md",
-    "Foundation/Day 4 - Dictionaries & Sets — The Real Workhorses.md",
     "Annexes",
     "Foundation/Untitled.md",
     "Introduction.md",

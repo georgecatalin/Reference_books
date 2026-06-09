@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Foundation/Day 2 - The Python Type System.md",
+                "file": "Foundation/Day 1 - Python Memory Model.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Day 2 - The Python Type System"
+              "title": "Day 1 - Python Memory Model"
             }
           }
         ],
@@ -211,13 +211,13 @@
   },
   "active": "040bc42e2449317a",
   "lastOpenFiles": [
+    "Foundation/Day 2 - The Python Type System.md",
     "Foundation/Day 1 - Python Memory Model.md",
     "Foundation/Day 7 - Virtual Environments & Dependency Management.md",
     "Foundation/Day 6 - Modules & Packages.md",
     "Foundation/Day 5 - Error Handling & Context Managers.md",
     "Foundation/Day 4 - Comprehensions & Generators.md",
     "Foundation/Day 3 - Data Structures Real Costs, Right Choices.md",
-    "Foundation/Day 2 - The Python Type System.md",
     "OOP and design/Day 8 - Classes Done Right.md",
     "Mastery/Day 30 - Capstone Build.md",
     "Mastery/DESIGN.md.md",
