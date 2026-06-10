@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Introduction.md",
+                "file": "Intermediate power/Day 20 - Databases.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Introduction"
+              "title": "Day 20 - Databases"
             }
           }
         ],
@@ -211,14 +211,31 @@
   },
   "active": "512f1f66fb3d46c0",
   "lastOpenFiles": [
+    "Intermediate power/Day 19 - Concurrency.md",
+    "Introduction.md",
+    "Intermediate power/Day 18 - Testing.md",
+    "Intermediate power/Day 17 - APIs & JSON.md",
+    "Real Python/Day 13 - Inheritance.md",
+    "Intermediate power/Day 20 - Databases.md",
+    "Intermediate power/Day 16 - Generators.md",
+    "Intermediate power/Day 15- Decorators.md",
+    "Real Python/Day 14 - Project.md",
+    "Intermediate power",
+    "Real Python/Day 12 - Object-Oriented Programming.md",
+    "Real Python/Day 11 - Comprehensions & Functional Tools.md",
+    "Real Python/Day 10 - Modules, Packages, pip.md",
+    "Real Python/Day 9 - Error Handling.md",
+    "Real Python/Day 8 - File IO.md",
+    "Real Python",
+    "Foundation/Day 7 -Project Command-Line Task Manager.md",
+    "Foundation/Day 6 - Functions.md",
+    "Foundation/Day 5 - Control Flow.md",
     "Foundation/Day 4 - Dictionaries & Sets — The Real Workhorses.md",
     "Foundation/Day 3 - Lists & Tuples — Working with Sequences.md",
     "Foundation/Day 2 - Data Types — How Python Thinks About Data.md",
     "Foundation/Day 1 - Setup & Your First Real Script.md",
     "Annexes/Stack versus Heap memory in Python.md",
     "Annexes",
-    "Foundation/Untitled.md",
-    "Introduction.md",
     "Foundation",
     "Pasted image 20260609151059.png"
   ]
