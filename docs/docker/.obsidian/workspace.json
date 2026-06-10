@@ -83,7 +83,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Docker in 30 days plan/Week 4/Untitled.md",
+                "file": "Docker in 30 days plan/Week 5/Untitled.md",
                 "mode": "source",
                 "source": false
               },
@@ -165,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Docker in 30 days plan/Week 4/Untitled.md",
+                "file": "Docker in 30 days plan/Week 5/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +184,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Docker in 30 days plan/Week 4/Untitled.md",
+                "file": "Docker in 30 days plan/Week 5/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -227,7 +227,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Docker in 30 days plan/Week 4/Untitled.md",
+                "file": "Docker in 30 days plan/Week 5/Untitled.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -257,8 +257,15 @@
   },
   "active": "57123378489a2ccb",
   "lastOpenFiles": [
-    "Docker in 30 days plan/Week 4/Untitled 1.md",
-    "Docker in 30 days plan/Week 4/Untitled.md",
+    "Docker in 30 days plan/Week 5/Day 28 — Kubernetes CI CD and GitOps.md",
+    "Docker in 30 days plan/Week 5/Untitled.md",
+    "Docker in 30 days plan/Week 5/Day 27 — Helm Packaging, Configuring, Installing.md",
+    "Docker in 30 days plan/Week 4/Day 26 — Kubernetes Security.md",
+    "Docker in 30 days plan/Week 5",
+    "Docker in 30 days plan/Week 4/Day 25 — Kubernetes Observability, Monitoring, Logging, and Troubleshooting.md",
+    "Docker in 30 days plan/Week 4/Day 24 — Kubernetes Networking.md",
+    "Docker in 30 days plan/Week 4/Day 23 — Deploying a Complete Application Stack on Kubernetes.md",
+    "Docker in 30 days plan/Week 4/Day 22 — Kubernetes Fundamentals.md",
     "Docker in 30 days plan/Week 4/Day 21 — Docker Swarm and Container Orchestration Fundamentals.md",
     "Docker in 30 days plan/Week 4",
     "Docker in 30 days plan/Week 3/Day 20 — Production Deployment with Docker Compose.md",
@@ -281,9 +288,6 @@
     "Docker in 30 days plan/Week 1/Day 1 — Understanding Docker.md",
     "Docker in 30 days plan/Week 1/Day 7 — Week 1 Project.md",
     "Docker in 30 days plan/Week 1",
-    "Docker in 30 days plan/Week 1/Day 6 — Building a Real Application Image Correctly.md",
-    "Docker in 30 days plan/Week 1/Day 5 — Writing Your First Dockerfile.md",
-    "Docker and Containerization in 30 Days.md",
     "Docker in 30 days plan",
     "Foundation"
   ]
