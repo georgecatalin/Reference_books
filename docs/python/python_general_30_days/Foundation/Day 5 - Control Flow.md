@@ -401,8 +401,6 @@ The Python-specific things to internalize:
 
 ---
 
-<<<<<<< HEAD
 Day 6 is functions — where code stops being a script and starts being a program. Ready when you are.
 =======
 [[Foundation]]
->>>>>>> origin/main
