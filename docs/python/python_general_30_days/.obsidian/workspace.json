@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Advanced/Day 30 - Capstone.md",
+                "file": "Foundation/Day 4 - Dictionaries & Sets — The Real Workhorses.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Day 30 - Capstone"
+              "title": "Day 4 - Dictionaries & Sets — The Real Workhorses"
             }
           }
         ]
@@ -196,8 +196,8 @@
   },
   "active": "17c918d5dfbc84dd",
   "lastOpenFiles": [
-    "Advanced/Day 29 - Architecture.md",
     "Advanced/Day 30 - Capstone.md",
+    "Advanced/Day 29 - Architecture.md",
     "Advanced/Day 28 -Tooling & CI.md",
     "Advanced/Day 27 - Data Work.md",
     "Advanced/Day 26 - Web Basics.md",

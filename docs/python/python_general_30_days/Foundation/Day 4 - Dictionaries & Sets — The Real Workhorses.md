@@ -1,3 +1,4 @@
+
 ### What a dictionary actually is
 
 A dictionary is an unordered collection of key-value pairs with O(1) lookup. That last part matters — finding a value by key in a dictionary with 10 items takes the same time as finding it in one with 10 million items. Lists can't do that.
