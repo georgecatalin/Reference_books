@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Docker in 30 days plan/Day 2 — The Container Lifecycle.md",
+                "file": "Docker in 30 days plan/Week 1/Day 2 — The Container Lifecycle.md",
                 "mode": "source",
                 "source": false
               },
@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Docker in 30 days plan/Day 4 — Docker Images, Tags, Registries.md",
+                "file": "Docker in 30 days plan/Week 1/Day 4 — Docker Images, Tags, Registries.md",
                 "mode": "source",
                 "source": false
               },
@@ -41,7 +41,35 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Docker in 30 days plan/Untitled.md",
+                "file": "Docker in 30 days plan/Week 1/Day 1 — Understanding Docker.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Day 1 — Understanding Docker"
+            }
+          },
+          {
+            "id": "d1d1df1ad49e17ff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Docker in 30 days plan/Week 1/Day 2 — The Container Lifecycle.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Day 2 — The Container Lifecycle"
+            }
+          },
+          {
+            "id": "cda9deb6c2511c9b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Docker in 30 days plan/Week 2/Untitled.md",
                 "mode": "source",
                 "source": false
               },
@@ -50,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -123,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Docker in 30 days plan/Untitled.md",
+                "file": "Docker in 30 days plan/Week 2/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Docker in 30 days plan/Untitled.md",
+                "file": "Docker in 30 days plan/Week 2/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -185,7 +213,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Docker in 30 days plan/Untitled.md",
+                "file": "Docker in 30 days plan/Week 2/Untitled.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -213,15 +241,24 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d33fb51cebd519b3",
+  "active": "cda9deb6c2511c9b",
   "lastOpenFiles": [
-    "Docker in 30 days plan/Untitled 3.md",
-    "Docker in 30 days plan/Untitled 2.md",
-    "Docker in 30 days plan/Untitled.md",
-    "Docker in 30 days plan/Untitled 1.md",
-    "Docker in 30 days plan/Day 4 — Docker Images, Tags, Registries.md",
-    "Docker in 30 days plan/Day 2 — The Container Lifecycle.md",
-    "Docker in 30 days plan/Day 1 — Understanding Docker.md",
+    "Docker in 30 days plan/Week 2/Day 13 — Docker Compose Fundamentals.md",
+    "Docker in 30 days plan/Week 2/Untitled.md",
+    "Docker in 30 days plan/Week 2/Day 12 — Connecting an Application Container to a Database Container.md",
+    "Docker in 30 days plan/Week 2/Day 11 — Docker Networks.md",
+    "Docker in 30 days plan/Week 2/Day 10 — Docker Volumes.md",
+    "Docker in 30 days plan/Week 2/Day 9 — Bind Mounts.md",
+    "Docker in 30 days plan/Week 2/Day 8 — Container Filesystems.md",
+    "Docker in 30 days plan/Week 1/Day 4 — Docker Images, Tags, Registries.md",
+    "Docker in 30 days plan/Week 2",
+    "Untitled",
+    "Docker in 30 days plan/Week 1/Day 2 — The Container Lifecycle.md",
+    "Docker in 30 days plan/Week 1/Day 1 — Understanding Docker.md",
+    "Docker in 30 days plan/Week 1/Day 7 — Week 1 Project.md",
+    "Docker in 30 days plan/Week 1",
+    "Docker in 30 days plan/Week 1/Day 6 — Building a Real Application Image Correctly.md",
+    "Docker in 30 days plan/Week 1/Day 5 — Writing Your First Dockerfile.md",
     "Docker and Containerization in 30 Days.md",
     "Docker in 30 days plan",
     "Foundation"
