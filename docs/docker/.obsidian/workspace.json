@@ -69,7 +69,21 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Docker in 30 days plan/Week 2/Untitled.md",
+                "file": "Docker in 30 days plan/Week 2/Day 14 — Advanced Docker Compose.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Day 14 — Advanced Docker Compose"
+            }
+          },
+          {
+            "id": "57123378489a2ccb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Docker in 30 days plan/Week 4/Untitled.md",
                 "mode": "source",
                 "source": false
               },
@@ -78,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -151,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Docker in 30 days plan/Week 2/Untitled.md",
+                "file": "Docker in 30 days plan/Week 4/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +184,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Docker in 30 days plan/Week 2/Untitled.md",
+                "file": "Docker in 30 days plan/Week 4/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -213,7 +227,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Docker in 30 days plan/Week 2/Untitled.md",
+                "file": "Docker in 30 days plan/Week 4/Untitled.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -241,10 +255,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cda9deb6c2511c9b",
+  "active": "57123378489a2ccb",
   "lastOpenFiles": [
+    "Docker in 30 days plan/Week 4/Untitled 1.md",
+    "Docker in 30 days plan/Week 4/Untitled.md",
+    "Docker in 30 days plan/Week 4/Day 21 — Docker Swarm and Container Orchestration Fundamentals.md",
+    "Docker in 30 days plan/Week 4",
+    "Docker in 30 days plan/Week 3/Day 20 — Production Deployment with Docker Compose.md",
+    "Docker in 30 days plan/Week 3/Day 19 — Docker CI CD.md",
+    "Docker in 30 days plan/Week 3/Day 18 — Docker Registries, Image Tagging, Push, Pull, and Release Workflows.md",
+    "Docker in 30 days plan/Week 3/Day 17 — Docker Container Security.md",
+    "Docker in 30 days plan/Week 3/Day 16 — Container Observability.md",
+    "Docker in 30 days plan/Week 3/Day 15 — Multi-Stage Builds.md",
+    "Docker in 30 days plan/Week 2/Day 14 — Advanced Docker Compose.md",
+    "Docker in 30 days plan/Week 3",
     "Docker in 30 days plan/Week 2/Day 13 — Docker Compose Fundamentals.md",
-    "Docker in 30 days plan/Week 2/Untitled.md",
     "Docker in 30 days plan/Week 2/Day 12 — Connecting an Application Container to a Database Container.md",
     "Docker in 30 days plan/Week 2/Day 11 — Docker Networks.md",
     "Docker in 30 days plan/Week 2/Day 10 — Docker Volumes.md",
@@ -252,7 +277,6 @@
     "Docker in 30 days plan/Week 2/Day 8 — Container Filesystems.md",
     "Docker in 30 days plan/Week 1/Day 4 — Docker Images, Tags, Registries.md",
     "Docker in 30 days plan/Week 2",
-    "Untitled",
     "Docker in 30 days plan/Week 1/Day 2 — The Container Lifecycle.md",
     "Docker in 30 days plan/Week 1/Day 1 — Understanding Docker.md",
     "Docker in 30 days plan/Week 1/Day 7 — Week 1 Project.md",
