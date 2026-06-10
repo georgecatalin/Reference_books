@@ -1,8 +1,7 @@
-<<<<<<< HEAD
-[[Foundation]]
-=======
 
->>>>>>> origin/main
+[[Foundation]]
+
+
 ## Conditionals — if/elif/else
 
 ```python

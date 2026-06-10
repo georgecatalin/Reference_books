@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Foundation/Day 4 - Dictionaries & Sets — The Real Workhorses.md",
+                "file": "Foundation/Day 5 - Control Flow.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Day 4 - Dictionaries & Sets — The Real Workhorses"
+              "title": "Day 5 - Control Flow"
             }
           }
         ]
@@ -196,6 +196,7 @@
   },
   "active": "17c918d5dfbc84dd",
   "lastOpenFiles": [
+    "Foundation/Day 4 - Dictionaries & Sets — The Real Workhorses.md",
     "Advanced/Day 30 - Capstone.md",
     "Advanced/Day 29 - Architecture.md",
     "Advanced/Day 28 -Tooling & CI.md",
@@ -209,7 +210,6 @@
     "Advanced",
     "Intermediate power/Day 21 - Project.md",
     "Real Python/Day 14 - Project.md",
-    "Foundation/Day 4 - Dictionaries & Sets — The Real Workhorses.md",
     "conflict-files-obsidian-git.md",
     "Intermediate power/Day 20 - Databases.md",
     "Intermediate power/Day 19 - Concurrency.md",
