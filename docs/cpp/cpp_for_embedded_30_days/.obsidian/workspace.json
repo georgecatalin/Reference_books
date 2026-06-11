@@ -1,41 +1,56 @@
 {
   "main": {
-    "id": "24812b3bf7bd9e08",
+    "id": "af7a1788a1b46e9b",
     "type": "split",
     "children": [
       {
-        "id": "c4b82ee3dd1ccd45",
+        "id": "625185de2515bb90",
         "type": "tabs",
         "children": [
           {
-            "id": "17c918d5dfbc84dd",
+            "id": "57b5e1912d117594",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Foundation/Day 6 - Functions.md",
+                "file": "Introduction.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Day 6 - Functions"
+              "title": "Introduction"
+            }
+          },
+          {
+            "id": "bb999f645e5e6dfd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Phase 1/Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "af346fa1c8f5d182",
+    "id": "e03e0a1837388581",
     "type": "split",
     "children": [
       {
-        "id": "ebf5ba5fa83d98a8",
+        "id": "971c2b1a0c6bef15",
         "type": "tabs",
         "children": [
           {
-            "id": "f822162b623b9212",
+            "id": "e5005514e7b5944f",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +63,7 @@
             }
           },
           {
-            "id": "836e4e408a30bf89",
+            "id": "3b2c8f5aebfdd482",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +80,7 @@
             }
           },
           {
-            "id": "0a535f25eeba90ca",
+            "id": "c28126306409cbd6",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -81,20 +96,20 @@
     "width": 300
   },
   "right": {
-    "id": "7ec5c3420c0162ff",
+    "id": "3cd7d5f21a63c446",
     "type": "split",
     "children": [
       {
-        "id": "572c9bc467b817fb",
+        "id": "8101c0009edab933",
         "type": "tabs",
         "children": [
           {
-            "id": "4f5949cbf1c0399e",
+            "id": "6c09de5a3a8498fa",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Foundation/Day 4 - Dictionaries & Sets — The Real Workhorses.md",
+                "file": "Phase 1/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,25 +119,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Day 4 - Dictionaries & Sets — The Real Workhorses"
+              "title": "Backlinks for Untitled"
             }
           },
           {
-            "id": "e5d2bfd16035fdaf",
+            "id": "88488e4b88967fec",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Foundation/Day 4 - Dictionaries & Sets — The Real Workhorses.md",
+                "file": "Phase 1/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Day 4 - Dictionaries & Sets — The Real Workhorses"
+              "title": "Outgoing links from Untitled"
             }
           },
           {
-            "id": "26d5c6c8275d2a77",
+            "id": "02ef7d37ef4976e5",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -137,7 +152,7 @@
             }
           },
           {
-            "id": "ba6e74117884441f",
+            "id": "c31f3210c7c1816b",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -151,22 +166,22 @@
             }
           },
           {
-            "id": "2d9c6e8b678c5878",
+            "id": "d9d7d5bd6121e960",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Foundation/Day 4 - Dictionaries & Sets — The Real Workhorses.md",
+                "file": "Phase 1/Untitled.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Day 4 - Dictionaries & Sets — The Real Workhorses"
+              "title": "Outline of Untitled"
             }
           },
           {
-            "id": "e2c44f5f9d256493",
+            "id": "b66ce2a0df7c0007",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -194,39 +209,43 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "17c918d5dfbc84dd",
+  "active": "bb999f645e5e6dfd",
   "lastOpenFiles": [
-    "Intermediate power/Day 15- Decorators.md",
-    "Foundation/Day 6 - Functions.md",
-    "Advanced/Day 22 - Type Hints, Dataclasses & Pydantic.md",
-    "Real Python/Day 11 - Comprehensions & Functional Tools.md",
-    "Intermediate power/Day 18 - Testing.md",
-    "Intermediate power/Day 16 - Generators.md",
-    "Foundation/Day 7 -Project Command-Line Task Manager.md",
-    "Intermediate power/Day 17 - APIs & JSON.md",
-    "Real Python/Day 12 - Object-Oriented Programming.md",
-    "Foundation/Day 5 - Control Flow.md",
-    "Foundation/Day 4 - Dictionaries & Sets — The Real Workhorses.md",
-    "Advanced/Day 30 - Capstone.md",
-    "Advanced/Day 29 - Architecture.md",
-    "Advanced/Day 28 -Tooling & CI.md",
-    "Advanced/Day 27 - Data Work.md",
-    "Advanced/Day 26 - Web Basics.md",
-    "Advanced/Day 25 - Packaging.md",
-    "Advanced/Day 24 - Performance.md",
-    "Advanced/Day 23- Design Patterns.md",
+    "Phase 5/Untitled.md",
+    "Phase 1/Untitled.md",
+    "Phase 5/Day 29 - Capstone — Implementation.md",
+    "Phase 5/Day 28 - Capstone — Architecture & Skeleton.md",
+    "Phase 5/Day 27 - Testing, Tooling & Build Systems.md",
+    "Phase 5/Day 26 - Design Patterns for Embedded C++.md",
     "Introduction.md",
-    "Advanced",
-    "Intermediate power/Day 21 - Project.md",
-    "Real Python/Day 14 - Project.md",
-    "conflict-files-obsidian-git.md",
-    "Intermediate power/Day 20 - Databases.md",
-    "Intermediate power/Day 19 - Concurrency.md",
-    "Real Python/Day 13 - Inheritance.md",
-    "Intermediate power",
-    "Real Python",
-    "Annexes",
-    "Foundation",
-    "Pasted image 20260609151059.png"
+    "Phase 5/Day 24 - Type Traits & SFINAE.md",
+    "Phase 5/Day 25 - Binary Protocols & Bit Manipulation.md",
+    "Phase 5/Day 23 - Compile-Time Programming.md",
+    "Phase 4/Day 22 - File IO, Sockets & `std filesystem`.md",
+    "Phase 5",
+    "Phase 4/Day 21 Async Programming — Futures & Promises.md",
+    "Phase 4/Day 20 - Concurrency. Condition Variables & Atomics.md",
+    "Phase 4/Day 19 - Concurrency. Threads & Mutexes.md",
+    "Phase 4/Day 18 - Memory Management & Custom Allocators.md",
+    "Phase 4/Day 17 - Pointers in Depth — Raw, Smart & Weak.md",
+    "Phase 3/Day 16 - Error Handling — Exceptions,.md",
+    "Phase 4",
+    "Phase 3/Day 15 - Move Semantics & Perfect Forwarding.md",
+    "Phase 3/Day 14 - Lambdas & `std function`.md",
+    "Phase 3/Day 13 - The STL — Algorithms & Iterators.md",
+    "Phase 3/Day 12 -The STL — Containers.md",
+    "Phase 3/Day 11 - Templates — Generic Code Without Runtime Cost.md",
+    "Phase 2/Day 10 - Inheritance, Polymorphism & Vtables.md",
+    "Phase 3",
+    "Phase 2/Day 9 - Operator Overloading.md",
+    "Phase 2",
+    "Phase 2/Day 8 - The Rule of Zero, Three & Five.md",
+    "Phase 2/Day 7 - RAII — Resource Acquisition Is Initialization.md",
+    "Phase 1",
+    "Pasted image 20260611104339.png",
+    "Pasted image 20260611104320.png",
+    "Pasted image 20260611104303.png",
+    "Pasted image 20260611104240.png",
+    "Pasted image 20260611104217.png"
   ]
 }
