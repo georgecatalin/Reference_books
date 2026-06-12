@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Phase 1/Untitled 2.md",
+                "file": "Phase 1/Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled 2"
+              "title": "Untitled"
             }
           }
         ],
@@ -211,6 +211,10 @@
   },
   "active": "5c996029638a27a1",
   "lastOpenFiles": [
+    "Phase 1/Untitled 1.md",
+    "Phase 1/Untitled.md",
+    "Phase 1/Day 4 — Pointers II Arrays & Strings.md",
+    "Phase 1/Day 3 — Pointers I The Fundamentals.md",
     "Phase 1/Day 2 - Types, variables & memory layout.md",
     "Phase 1/Day 1 - Environment & toolchain.md",
     "Phase 5 IPC/IPC in C — 7-day intensive.md",
@@ -230,8 +234,6 @@
     "Phase 2/Day 17 -POSIX threads (pthreads).md",
     "Introduction.md",
     "Phase 1/Day 10 -Make & project structure.md",
-    "Phase 1/Untitled 2.md",
-    "Phase 1/Untitled 3.md",
     "Phase 3",
     "Phase 2",
     "Phase 1",
