@@ -44,4 +44,4 @@ Free for use.
 
 ## Author
 
-Maintained by **George Calin**.
+Maintained by **George Calin**. Connect with me @ https://www.linkedin.com/in/cgeorge1978/.
