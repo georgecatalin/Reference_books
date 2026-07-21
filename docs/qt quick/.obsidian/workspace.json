@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C++ QML Integration and Data/12 Styling and Theming.md",
+                "file": "Capstone Project/30 Settings, End-to-End Integration, Final Deployment, and Course Wrap-Up.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "12 Styling and Theming"
+              "title": "30 Settings, End-to-End Integration, Final Deployment, and Course Wrap-Up"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C++ QML Integration and Data/12 Styling and Theming.md",
+                "file": "Capstone Project/30 Settings, End-to-End Integration, Final Deployment, and Course Wrap-Up.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 12 Styling and Theming"
+              "title": "Backlinks for 30 Settings, End-to-End Integration, Final Deployment, and Course Wrap-Up"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C++ QML Integration and Data/12 Styling and Theming.md",
+                "file": "Capstone Project/30 Settings, End-to-End Integration, Final Deployment, and Course Wrap-Up.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 12 Styling and Theming"
+              "title": "Outgoing links from 30 Settings, End-to-End Integration, Final Deployment, and Course Wrap-Up"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C++ QML Integration and Data/12 Styling and Theming.md",
+                "file": "Capstone Project/30 Settings, End-to-End Integration, Final Deployment, and Course Wrap-Up.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 12 Styling and Theming"
+              "title": "Outline of 30 Settings, End-to-End Integration, Final Deployment, and Course Wrap-Up"
             }
           },
           {
@@ -194,21 +194,34 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5b55aef837d11329",
+  "active": "08f09c4d3aa1abad",
   "lastOpenFiles": [
-    "C++ QML Integration and Data/11 Designing Reusable QML Components Properly.md",
+    "Capstone Project/29 Charts and History Pages.md",
+    "Capstone Project/30 Settings, End-to-End Integration, Final Deployment, and Course Wrap-Up.md",
+    "Capstone Project/28 Building Real Pages Overview and Devices.md",
+    "Capstone Project/27 Capstone Kickoff.md",
+    "Advanced Qt Quick/26 Testing QML.md",
+    "Advanced Qt Quick/25 Deployment.md",
+    "Advanced Qt Quick/24 Localization and Accessibility.md",
+    "Advanced Qt Quick/23 Multi-Window Apps.md",
+    "Advanced Qt Quick/22 Performance.md",
+    "Advanced Qt Quick/21 Proper State Machines Qt SCXML.md",
+    "Advanced Qt Quick/20 Live Data Visualization.md",
+    "Advanced Qt Quick/19 Advanced Animations.md",
+    "C++ QML Integration and Data/18 Threading.md",
+    "C++ QML Integration and Data/17 SQLite Integration QSqlDatabase and Your Existing Schema.md",
+    "C++ QML Integration and Data/16 MQTT in Qt Live Telemetry from Your Broker.md",
+    "Introduction.md",
+    "C++ QML Integration and Data/15 Networking in Qt QNetworkAccessManager and REST Integration.md",
+    "C++ QML Integration and Data/14 Real C++ Models.md",
+    "C++ QML Integration and Data/13 Canvas and Custom Painting.md",
     "C++ QML Integration and Data/12 Styling and Theming.md",
+    "C++ QML Integration and Data/11 Designing Reusable QML Components Properly.md",
     "C++ QML Integration and Data/10 qmlRegisterType, Singletons, and Ownership Rules.md",
     "C++ QML Integration and Data/9 Exposing C++ to QML.md",
     "QML Foundations/8 Phase 1 Capstone.md",
     "QML Foundations/7 States, Transitions and Animations.md",
     "QML Foundations/6 Models and Views.md",
-    "QML Foundations/1 The Qt Quick Mental Model.md",
-    "Introduction.md",
-    "QML Foundations/5 Signals, Handlers and where JS in QML should stop.md",
-    "QML Foundations/4 Layouts in depth.md",
-    "QML Foundations/3 Qt Quick Controls 2 Buttons, Inputs and Real Forms.md",
-    "QML Foundations/2 Properties, the object tree and anchors.md",
     "Capstone Project",
     "Advanced Qt Quick",
     "C++ QML Integration and Data",
