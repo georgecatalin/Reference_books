@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Advanced/24 Integration.md",
+                "file": "Qt Quick QML/40 Capstone — The Touchscreen mqtt_monitor Panel, and QML vs. Widgets Going Forward.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "24 Integration"
+              "title": "40 Capstone — The Touchscreen mqtt_monitor Panel, and QML vs. Widgets Going Forward"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Advanced/24 Integration.md",
+                "file": "Qt Quick QML/40 Capstone — The Touchscreen mqtt_monitor Panel, and QML vs. Widgets Going Forward.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 24 Integration"
+              "title": "Backlinks for 40 Capstone — The Touchscreen mqtt_monitor Panel, and QML vs. Widgets Going Forward"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Advanced/24 Integration.md",
+                "file": "Qt Quick QML/40 Capstone — The Touchscreen mqtt_monitor Panel, and QML vs. Widgets Going Forward.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 24 Integration"
+              "title": "Outgoing links from 40 Capstone — The Touchscreen mqtt_monitor Panel, and QML vs. Widgets Going Forward"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Advanced/24 Integration.md",
+                "file": "Qt Quick QML/40 Capstone — The Touchscreen mqtt_monitor Panel, and QML vs. Widgets Going Forward.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 24 Integration"
+              "title": "Outline of 40 Capstone — The Touchscreen mqtt_monitor Panel, and QML vs. Widgets Going Forward"
             }
           },
           {
@@ -194,10 +194,27 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ef26c18009707d44",
+  "active": "517cd0e83a0a1b5b",
   "lastOpenFiles": [
-    "Advanced/25 QTest - Unit Testing Models, Delegates and Worker Logic.md",
+    "Qt Quick QML/39 Threading with QML.md",
+    "Qt Quick QML/40 Capstone — The Touchscreen mqtt_monitor Panel, and QML vs. Widgets Going Forward.md",
+    "Qt Quick QML/38 Touch and Gesture Handling.md",
+    "Qt Quick QML/37 Performance on Embedded GPU-Constrained Targets.md",
+    "Qt Quick QML/36 States and transitions.md",
+    "Qt Quick QML/35 Proper C++ QML Integration.md",
+    "Qt Quick QML/34 Real Models.md",
+    "Qt Quick QML/33 QML Custom Components.md",
+    "Qt Quick QML/32 Anchors, Positions and Layouts.md",
+    "Qt Quick QML/31 The Declarative Model.md",
+    "Qt Quick QML/Introduction.md",
+    "Advanced/29 Plug-in architecture.md",
+    "Qt Quick QML",
+    "Advanced/30 Wiring all into the application.md",
+    "Advanced/28 Performance Profiling.md",
+    "Advanced/27 Deployment - Linux Packaging and Cross-Compiling for ARM.md",
+    "Advanced/26 Testing Worker-Thread Code.md",
     "Advanced/24 Integration.md",
+    "Advanced/25 QTest - Unit Testing Models, Delegates and Worker Logic.md",
     "Introduction.md",
     "Concurrency,IO and Data/23 Custom Painted Gauge Widget.md",
     "Concurrency,IO and Data/22 QtCharts.md",
@@ -206,22 +223,6 @@
     "Concurrency,IO and Data/19 Qt MQTT Module.md",
     "Concurrency,IO and Data/18 Multi Device Serial Management.md",
     "Concurrency,IO and Data/17 QSerialPort.md",
-    "Concurrency,IO and Data/16 QThread.md",
-    "Core Application Skills/15 Phase 2 Integration.md",
-    "Core Application Skills/14 Undo Redo Frameword.md",
-    "Core Application Skills/13 Drag and Drop.md",
-    "Core Application Skills/12 QPropertyAnimation, the Property System and QGraphicsEffect.md",
-    "Core Application Skills/11 Composite Custom Widgets.md",
-    "Core Application Skills/10 Sorting and filtering.md",
-    "Core Application Skills/9 Model View Architecture.md",
-    "Foundations/8 Integration.md",
-    "Foundations/7 QSettings.md",
-    "Foundations/6 Qt Style Sheets.md",
-    "Foundations/5 Dialogs, Menus, Toolbars.md",
-    "Foundations/4 The event system.md",
-    "Foundations/3 Signals and slots.md",
-    "Foundations/2 Layouts and sizing.md",
-    "Foundations/1 Project Structure.md",
     "Advanced",
     "Concurrency,IO and Data",
     "Core Application Skills",
