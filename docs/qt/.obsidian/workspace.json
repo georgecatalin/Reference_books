@@ -194,10 +194,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "517cd0e83a0a1b5b",
+  "active": "ef26c18009707d44",
   "lastOpenFiles": [
-    "Introduction.md",
+    "Advanced/25 QTest - Unit Testing Models, Delegates and Worker Logic.md",
     "Advanced/24 Integration.md",
+    "Introduction.md",
     "Concurrency,IO and Data/23 Custom Painted Gauge Widget.md",
     "Concurrency,IO and Data/22 QtCharts.md",
     "Concurrency,IO and Data/21 REST Consuming APIs with QNetworkAccessManager, exposing one with QHttpServer.md",
