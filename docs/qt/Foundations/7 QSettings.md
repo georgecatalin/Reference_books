@@ -175,7 +175,3 @@ for (const auto &val : array) {
 - `saveGeometry`/`saveState` + their restore counterparts are the correct, DPI-safe way to persist window/toolbar/dock layout — treat the `QByteArray` as opaque.
 - Use `closeEvent()` (not the destructor) as your "persist on exit" hook, and call `sync()` explicitly after critical writes if abrupt process termination is a realistic risk (very relevant for embedded targets).
 - For structured/nested settings data, serialize to JSON via `QJsonDocument` — consistent with the JSON handling you'll need elsewhere in `mqtt_monitor` anyway.
-
----
-
-Say "next" for Day 8 (wrapping up Phase 1 with a review/integration day: pulling Days 1-7 together into one cohesive, buildable application skeleton — the actual foundation you'll build all of Phase 2 on top of).

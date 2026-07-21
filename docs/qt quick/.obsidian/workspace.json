@@ -1,24 +1,24 @@
 {
   "main": {
-    "id": "e485151d699f46af",
+    "id": "18c702611f9d68a7",
     "type": "split",
     "children": [
       {
-        "id": "cdde6c5a8ac32184",
+        "id": "661f11cbfe725889",
         "type": "tabs",
         "children": [
           {
-            "id": "517cd0e83a0a1b5b",
+            "id": "08f09c4d3aa1abad",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Qt for Embedded Display targets/7 Capstone - a real bootable image plan, OTA updates.md",
+                "file": "C++ QML Integration and Data/12 Styling and Theming.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "7 Capstone - a real bootable image plan, OTA updates"
+              "title": "12 Styling and Theming"
             }
           }
         ]
@@ -27,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "9dac38340bb5d6e4",
+    "id": "5a42795f1ff0e815",
     "type": "split",
     "children": [
       {
-        "id": "b5aeecb4d16da606",
+        "id": "21b8cac07c7ee92d",
         "type": "tabs",
         "children": [
           {
-            "id": "ef26c18009707d44",
+            "id": "5b55aef837d11329",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +48,7 @@
             }
           },
           {
-            "id": "05cf57654309dc72",
+            "id": "d1b8bbd4273ecea5",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +65,7 @@
             }
           },
           {
-            "id": "d920430be1d6af9a",
+            "id": "073fddd721c24ea1",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -81,20 +81,20 @@
     "width": 300
   },
   "right": {
-    "id": "ad4943e8ebcd881e",
+    "id": "79c02b3616c6bea7",
     "type": "split",
     "children": [
       {
-        "id": "87c1b64654260bf9",
+        "id": "bb18390651a4d2b6",
         "type": "tabs",
         "children": [
           {
-            "id": "a41c2f4a31411029",
+            "id": "c7bf429fc69bcd45",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Qt for Embedded Display targets/7 Capstone - a real bootable image plan, OTA updates.md",
+                "file": "C++ QML Integration and Data/12 Styling and Theming.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,25 +104,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 7 Capstone - a real bootable image plan, OTA updates"
+              "title": "Backlinks for 12 Styling and Theming"
             }
           },
           {
-            "id": "10df353311d6a485",
+            "id": "1bebb7989e95b02e",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Qt for Embedded Display targets/7 Capstone - a real bootable image plan, OTA updates.md",
+                "file": "C++ QML Integration and Data/12 Styling and Theming.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 7 Capstone - a real bootable image plan, OTA updates"
+              "title": "Outgoing links from 12 Styling and Theming"
             }
           },
           {
-            "id": "0ee8ab03ea7f43c6",
+            "id": "ce58aa42d2eab265",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -137,7 +137,7 @@
             }
           },
           {
-            "id": "ccf0c46441929757",
+            "id": "6ac77f6a7b5cebaa",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -151,22 +151,22 @@
             }
           },
           {
-            "id": "5b059d696dd7fb42",
+            "id": "b3cb485632b6c5be",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Qt for Embedded Display targets/7 Capstone - a real bootable image plan, OTA updates.md",
+                "file": "C++ QML Integration and Data/12 Styling and Theming.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 7 Capstone - a real bootable image plan, OTA updates"
+              "title": "Outline of 12 Styling and Theming"
             }
           },
           {
-            "id": "336a3a37a5e50db2",
+            "id": "d69434f9d73899c9",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -194,39 +194,24 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "517cd0e83a0a1b5b",
+  "active": "5b55aef837d11329",
   "lastOpenFiles": [
-    "Qt for Embedded Display targets/6 Performance on Bare-Metal Rendering.md",
-    "Qt for Embedded Display targets/7 Capstone - a real bootable image plan, OTA updates.md",
-    "Qt for Embedded Display targets/5 Boot-to-App Kiosk Mode, Splash Screen, Watchdog and Power-Loss Resilience.md",
-    "Qt for Embedded Display targets/4 Input Without a Window Manager.md",
-    "Qt for Embedded Display targets/3 Cross-Compiling Qt.md",
-    "Qt for Embedded Display targets/2 Platform strategy Boot2Qt vs. Yocto vs. Buildroot vs. Stock Raspberry Pi OS.md",
-    "Qt for Embedded Display targets/1 The paradigm shift.md",
-    "Foundations/6 Qt Style Sheets.md",
-    "Foundations/7 QSettings.md",
-    "Qt for Embedded Display targets/Introduction.md",
-    "Core Application Skills.md",
-    "Concurrency.md",
-    "Advanced.md",
-    "Qt for Embedded Display targets.md",
-    "Untitled.md",
-    "Qt for Embedded Display targets",
-    "Qt Quick QML/40 Capstone — The Touchscreen mqtt_monitor Panel, and QML vs. Widgets Going Forward.md",
-    "Qt Quick QML/39 Threading with QML.md",
-    "Qt Quick QML/38 Touch and Gesture Handling.md",
-    "Qt Quick QML/37 Performance on Embedded GPU-Constrained Targets.md",
-    "Qt Quick QML/36 States and transitions.md",
-    "Qt Quick QML/35 Proper C++ QML Integration.md",
-    "Qt Quick QML/34 Real Models.md",
-    "Qt Quick QML/33 QML Custom Components.md",
-    "Qt Quick QML/32 Anchors, Positions and Layouts.md",
-    "Qt Quick QML/31 The Declarative Model.md",
-    "Qt Quick QML/Introduction.md",
-    "Qt Quick QML",
-    "Advanced",
-    "Concurrency,IO and Data",
-    "Core Application Skills",
-    "Foundations"
+    "C++ QML Integration and Data/11 Designing Reusable QML Components Properly.md",
+    "C++ QML Integration and Data/12 Styling and Theming.md",
+    "C++ QML Integration and Data/10 qmlRegisterType, Singletons, and Ownership Rules.md",
+    "C++ QML Integration and Data/9 Exposing C++ to QML.md",
+    "QML Foundations/8 Phase 1 Capstone.md",
+    "QML Foundations/7 States, Transitions and Animations.md",
+    "QML Foundations/6 Models and Views.md",
+    "QML Foundations/1 The Qt Quick Mental Model.md",
+    "Introduction.md",
+    "QML Foundations/5 Signals, Handlers and where JS in QML should stop.md",
+    "QML Foundations/4 Layouts in depth.md",
+    "QML Foundations/3 Qt Quick Controls 2 Buttons, Inputs and Real Forms.md",
+    "QML Foundations/2 Properties, the object tree and anchors.md",
+    "Capstone Project",
+    "Advanced Qt Quick",
+    "C++ QML Integration and Data",
+    "QML Foundations"
   ]
 }
