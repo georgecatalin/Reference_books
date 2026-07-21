@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Concurrency,IO and Data/16 QThread.md",
+                "file": "Advanced/24 Integration.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "16 QThread"
+              "title": "24 Integration"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Concurrency,IO and Data/16 QThread.md",
+                "file": "Advanced/24 Integration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 16 QThread"
+              "title": "Backlinks for 24 Integration"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Concurrency,IO and Data/16 QThread.md",
+                "file": "Advanced/24 Integration.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 16 QThread"
+              "title": "Outgoing links from 24 Integration"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Concurrency,IO and Data/16 QThread.md",
+                "file": "Advanced/24 Integration.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 16 QThread"
+              "title": "Outline of 24 Integration"
             }
           },
           {
@@ -197,6 +197,14 @@
   "active": "517cd0e83a0a1b5b",
   "lastOpenFiles": [
     "Introduction.md",
+    "Advanced/24 Integration.md",
+    "Concurrency,IO and Data/23 Custom Painted Gauge Widget.md",
+    "Concurrency,IO and Data/22 QtCharts.md",
+    "Concurrency,IO and Data/21 REST Consuming APIs with QNetworkAccessManager, exposing one with QHttpServer.md",
+    "Concurrency,IO and Data/20 SQLite via QSqlDatabase.md",
+    "Concurrency,IO and Data/19 Qt MQTT Module.md",
+    "Concurrency,IO and Data/18 Multi Device Serial Management.md",
+    "Concurrency,IO and Data/17 QSerialPort.md",
     "Concurrency,IO and Data/16 QThread.md",
     "Core Application Skills/15 Phase 2 Integration.md",
     "Core Application Skills/14 Undo Redo Frameword.md",
