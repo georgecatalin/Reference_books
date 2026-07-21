@@ -1,6 +1,9 @@
 # Reference Books
 
 A curated collection of compact reference books covering essential IT topics, with a focus on vocabulary, theory, syntax, practical patterns, and edge cases.
+For the best usability experience, I recommend using this repository with the Obsidian piece of software.
+## Download Obsidian here
+* https://obsidian.md/ 
 
 ## Overview
 
