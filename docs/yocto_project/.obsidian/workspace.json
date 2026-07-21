@@ -1,0 +1,255 @@
+{
+  "main": {
+    "id": "03005e479cc7f556",
+    "type": "split",
+    "children": [
+      {
+        "id": "344b862adc8319dc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e00aabd08719954c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Introduction.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Introduction"
+            }
+          },
+          {
+            "id": "4147ab59ffeff681",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Introduction.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Introduction"
+            }
+          },
+          {
+            "id": "0b1c39508d7d905e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Phase 1/4 Recipe Anatomy — Variables, Tasks, and the .bb File.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "4 Recipe Anatomy — Variables, Tasks, and the .bb File"
+            }
+          },
+          {
+            "id": "df20d5859d9b8c7b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Phase 2/Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c5637f86326bae98",
+    "type": "split",
+    "children": [
+      {
+        "id": "d6927e5b893ab245",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4681172961cf360c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "c239d9ee84a53c21",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "b75ef1c2d2b8be25",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "def754d939c6c936",
+    "type": "split",
+    "children": [
+      {
+        "id": "b85280d78257f579",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9e68b3228cd55324",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Phase 2/Untitled.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Untitled"
+            }
+          },
+          {
+            "id": "048979ab02a59188",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Phase 2/Untitled.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Untitled"
+            }
+          },
+          {
+            "id": "92fe33543df0c8fa",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "eec0b0312cfb231d",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "f0bd4fa2eb4c5464",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Phase 2/Untitled.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Untitled"
+            }
+          },
+          {
+            "id": "28b86a5750722347",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "df20d5859d9b8c7b",
+  "lastOpenFiles": [
+    "Phase 2/8 BitBake Task Execution Model.md",
+    "Phase 2/Untitled.md",
+    "Phase 1/7  Full Walkthrough — Building a Custom Image for QEMU, End to End.md",
+    "Phase 2",
+    "Phase 1/6 Image Recipes — Anatomy and Mechanics.md",
+    "Phase 1/5 local.conf Deep Dive — The Configuration Knobs That Actually Matter.md",
+    "Phase 1/4 Recipe Anatomy — Variables, Tasks, and the .bb File.md",
+    "Phase 1/3 Layers Deep Dive.md",
+    "Introduction.md",
+    "Phase 1/2 Build Environment Setup.md",
+    "Phase 1/1 What Yocto Actually Is.md",
+    "Phase 1"
+  ]
+}
