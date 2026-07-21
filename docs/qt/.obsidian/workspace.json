@@ -11,10 +11,14 @@
             "id": "517cd0e83a0a1b5b",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Concurrency,IO and Data/16 QThread.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "16 QThread"
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Concurrency,IO and Data/16 QThread.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for 16 QThread"
             }
           },
           {
@@ -108,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Concurrency,IO and Data/16 QThread.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from 16 QThread"
             }
           },
           {
@@ -150,12 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Concurrency,IO and Data/16 QThread.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of 16 QThread"
             }
           },
           {
@@ -189,9 +196,23 @@
   },
   "active": "517cd0e83a0a1b5b",
   "lastOpenFiles": [
-    "Foundations/Layouts and sizing.md",
-    "Foundations/Project Structure.md",
     "Introduction.md",
+    "Concurrency,IO and Data/16 QThread.md",
+    "Core Application Skills/15 Phase 2 Integration.md",
+    "Core Application Skills/14 Undo Redo Frameword.md",
+    "Core Application Skills/13 Drag and Drop.md",
+    "Core Application Skills/12 QPropertyAnimation, the Property System and QGraphicsEffect.md",
+    "Core Application Skills/11 Composite Custom Widgets.md",
+    "Core Application Skills/10 Sorting and filtering.md",
+    "Core Application Skills/9 Model View Architecture.md",
+    "Foundations/8 Integration.md",
+    "Foundations/7 QSettings.md",
+    "Foundations/6 Qt Style Sheets.md",
+    "Foundations/5 Dialogs, Menus, Toolbars.md",
+    "Foundations/4 The event system.md",
+    "Foundations/3 Signals and slots.md",
+    "Foundations/2 Layouts and sizing.md",
+    "Foundations/1 Project Structure.md",
     "Advanced",
     "Concurrency,IO and Data",
     "Core Application Skills",
