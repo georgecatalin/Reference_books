@@ -194,3 +194,61 @@ m_timer.start();            // Starts the timer using the set interval
 1. **Calling `start()` restarts a running timer:** If the timer is already running and you call `start()` (with or without an argument), it resets the countdown back to zero.
     
 2. **`start(msec)` overwrites `setInterval()`:** If you set `setInterval(5000)` earlier, but later call `m_timer.start(1000)`, the interval permanently changes to `1000`.
+
+
+---
+```
+Why do i place the connect() inside the constructor?
+```
+
+**TL;DR:** You place `connect()` inside the constructor so the signal-slot relationship is established **once** as soon as the object is created. Doing it anywhere else leads to memory leaks, duplicate signal firings, or missed events.
+
+### The 3 Core Reasons
+
+#### 1. "Setup Once, Run Many Times"
+
+A `connect()` call is not a function execution—it is an **event registration**. You are registering a standing rule with Qt's event system:
+
+> _"Whenever Signal X happens, execute Slot Y."_
+
+The constructor is C++'s built-in initialization phase. Setting up your connections here ensures your object is fully wired up and ready before any other code starts calling its methods or emitting signals.
+
+#### 2. Avoiding Duplicate Signal Connections (The Danger Zone)
+
+If you place `connect()` inside a regular member function or a slot that gets called repeatedly (e.g., inside a button click or a update handler):
+
+C++
+
+```
+// ❌ BAD PRACTICE: Calling connect inside a regular method
+void MyWidget::onDataReceived() {
+    connect(m_networkManager, &Network::finished, this, &MyWidget::processData);
+    m_networkManager->fetch();
+}
+```
+
+Every time `onDataReceived()` runs, Qt adds **another** identical connection.
+
+- Call it 1 time: `processData()` runs **1** time.
+    
+- Call it 5 times: `processData()` runs **5** times for a single network response!
+    
+
+Placing `connect()` in the constructor guarantees it is executed **exactly once** during the object's lifespan.
+
+#### 3. Guaranteed Safety Before Events Arrive
+
+If you delay placing `connect()` until a `start()` or `show()` method:
+
+- External components or background threads might emit signals **before** you call that method.
+    
+- Those signals will be completely lost because no listener (slot) was registered yet.
+    
+
+### Summary Rule of Thumb
+
+|**Location**|**Result**|
+|---|---|
+|**Constructor**|✅ Safe, executed once, object is immediately ready.|
+|**Regular Method / Slot**|❌ Duplicate connections, multiple slot executions per signal.|
+|**Destructor**|❌ Unnecessary (Qt automatically cleans up connections when either the sender or receiver object is destroyed).|
