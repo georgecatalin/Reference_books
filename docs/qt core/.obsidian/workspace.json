@@ -193,13 +193,23 @@
               "icon": "lucide-list",
               "title": "Outline of Day 4 Helper"
             }
+          },
+          {
+            "id": "8807847bef150c5a",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -213,7 +223,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ac3b2591f404d40d",
+  "active": "77a279af191f6bee",
   "lastOpenFiles": [
     "Week 1/Day 4 QTimer — Single-shot, Repeating, and Precision Modes.md",
     "Week 1/Day 4 Helper.md",
