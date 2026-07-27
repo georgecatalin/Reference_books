@@ -1,4 +1,19 @@
 
+```
+explain me this code ```
+class DriftCorrectedPoller : public QObject
+{
+    Q_OBJECT .....
+```
+`
+
+
+
+
+
+
+---
+
 
 ```
 explain  m_timer.start(qMax<qint64>(delay, 0));
