@@ -148,3 +148,49 @@ That is why we use `qMax(delay, 0)`:
 $$\text{qMax}(-2000, 0) \longrightarrow 0$$
 
 It turns `-2000` into `0`, telling the timer: _"We are already late! Don't wait at all—fire Tick 2 right now!"_
+
+
+---
+
+```
+if i get it correctly, one can set the timer interval either as .start(timer interval) parameter, or as timer.setInterval(timer interval)
+```
+
+**TL;DR:** Exactly right. You can either pass the interval directly into `start(interval)` or set it beforehand with `setInterval(interval)` and then call `start()` with no parameters.
+
+### Comparison of the Two Ways
+
+Both methods do the exact same thing under the hood. Here is how they compare:
+
+#### Method A: Passing directly into `start()`
+
+C++
+
+```
+m_timer.start(1000); // Sets interval to 1000ms AND starts the timer
+```
+
+- **What it does:** Updates `m_timer.interval()` to `1000` and immediately starts/restarts the timer.
+    
+- **Best for:** Dynamic intervals that change on every iteration (like the drift-correction code you showed earlier).
+    
+
+#### Method B: Using `setInterval()` first
+
+C++
+
+```
+m_timer.setInterval(1000); // Configures the interval to 1000ms
+m_timer.start();            // Starts the timer using the set interval
+```
+
+- **What it does:** `setInterval()` only saves the duration value. The timer will not actually begin counting down until `start()` is called.
+    
+- **Best for:** Static timers where you configure settings (interval, single-shot mode, type) upfront in a constructor, and start/stop the timer later in response to user actions.
+    
+
+### Important Behavior to Keep in Mind
+
+1. **Calling `start()` restarts a running timer:** If the timer is already running and you call `start()` (with or without an argument), it resets the countdown back to zero.
+    
+2. **`start(msec)` overwrites `setInterval()`:** If you set `setInterval(5000)` earlier, but later call `m_timer.start(1000)`, the interval permanently changes to `1000`.
