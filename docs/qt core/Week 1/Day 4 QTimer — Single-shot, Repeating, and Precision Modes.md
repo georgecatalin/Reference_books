@@ -262,12 +262,17 @@ If you removed the `+ 1`, your schedule calculations would break in two critical
 
 The `+ 1` bridges the gap between **history** (`m_tickNumber`) and the **future** target.
 
+
 ---
+Compare this to what a naive `repeating.start(1000)` would do: any per-tick processing cost accumulates tick over tick, so after an hour of runtime a naive timer could be seconds off from where it should be, while this pattern stays within one tick's worth of error indefinitely — because each `scheduleNext()` re-anchors against the original `m_startTime`, not against "now." This is the pattern you'd actually want in `mqtt_monitor` for anything like "publish an aggregated reading every N seconds" where long-term schedule accuracy matters.
 
-> [!NOTE]
-> explain  m_timer.start(qMax<qint64>(delay, 0));
+**Note on `#include "main.moc"`:** this line is required whenever a `Q_OBJECT` class is defined directly inside a `.cpp` file rather than its own header — moc generates a file matching the source file's name, and you must include it explicitly at the bottom so the generated code gets compiled in. This is a one-off exception to normal moc/AUTOMOC behavior worth recognizing so it doesn't look like a mistake when you see it in real Qt codebases.
 
+**Key takeaways:**
 
+- `QTimer` is a `QObject`; `timeout()` is a signal delivered through the exact event-loop and signal/slot mechanism from Days 2–3 — nothing new is happening under the hood.
+- `setSingleShot(false)` (default) repeats; `setSingleShot(true)` fires once. `stop()` halts future emissions without destroying the object.
+- `Qt::PreciseTimer` vs `Qt::CoarseTimer` is a real, measurable trade-off between timing accuracy and OS/power efficiency — pick deliberately based on whether your use case actually needs millisecond accuracy.
+- Naive repeating timers drift over long runtimes because each interval is scheduled relative to "now," not to an absolute schedule; re-anchoring against the original start time (as shown) eliminates compounding drift — essential for any long-running periodic task in a production service.
 
-
-
+Day 5 continues the QObject theme from Day 1 with real depth: parent/child ownership and memory management — why `new Sensor(this)` is idiomatic Qt C++ and how it interacts with (and differs from) the RAII/smart-pointer discipline you already have from your C++ course.
