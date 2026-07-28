@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Week 2/Untitled.md",
+                "file": "Week 2/Day 13 QDateTime & QTimeZone — Timestamping Correctly.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Day 13 QDateTime & QTimeZone — Timestamping Correctly"
             }
           }
         ],
@@ -239,8 +239,10 @@
   },
   "active": "aa1a22bd444fe1cd",
   "lastOpenFiles": [
+    "Week 2/Day 12 Q_PROPERTY in Depth & Custom QObject-Derived Data Model Classes.md",
+    "Week 2/Day 13 QDateTime & QTimeZone — Timestamping Correctly.md",
+    "Week 2/Day 11 QRegularExpression — Parsing Serial Line Formats Properly.md",
     "Week 2/Day 10 QJsonDocument , QJsonObject ,  QJsonArray.md",
-    "Week 2/Untitled.md",
     "Week 2/Day 9 QSettings — Configuration Files Done Properly.md",
     "Week 2/Day 8 QFile, QIODevice, QTextStream, QDataStream.md",
     "Week 1/Day 7 Helper.md",
