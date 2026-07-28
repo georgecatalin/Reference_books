@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Week 2/Untitled.md",
+                "file": "Week 2/Day 8 QFile, QIODevice, QTextStream, QDataStream.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Day 8 QFile, QIODevice, QTextStream, QDataStream"
             }
           }
         ],
@@ -240,7 +240,7 @@
   "active": "aa1a22bd444fe1cd",
   "lastOpenFiles": [
     "Week 1/Day 7 Helper.md",
-    "Week 2/Untitled.md",
+    "Week 2/Day 8 QFile, QIODevice, QTextStream, QDataStream.md",
     "Week 3",
     "Week 2",
     "Week 1/Day 7 Mini-Project — Log-Rotating File Writer Driven by QTimer.md",
