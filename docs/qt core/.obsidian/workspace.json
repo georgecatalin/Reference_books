@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Week 3/Day 21 Helper.md",
+                "file": "Week 2/Day 8 QFile, QIODevice, QTextStream, QDataStream.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Day 21 Helper"
+              "title": "Day 8 QFile, QIODevice, QTextStream, QDataStream"
             }
           }
         ],
@@ -239,8 +239,8 @@
   },
   "active": "aa1a22bd444fe1cd",
   "lastOpenFiles": [
-    "Week 3/Day 21 Mini-Project — Multi-Threaded Worker Pool Processing Simulated Sensor Readings.md",
     "Week 3/Day 21 Helper.md",
+    "Week 3/Day 21 Mini-Project — Multi-Threaded Worker Pool Processing Simulated Sensor Readings.md",
     "Week 3/Day 20 QFileSystemWatcher — Reacting Live to FileConfig Changes.md",
     "Week 3/Day 19 QProcess — Spawning and Communicating with External Processes.md",
     "Week 3/Day 18 QThreadPool & QRunnable — Task-Based Concurrency.md",
